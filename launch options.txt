@@ -1,1 +1,1 @@
--novid -nojoy +mat_queue_mode 2 -language bananagaming
+-novid -nojoy +mat_queue_mode 2 -freq 144 -language bananagaming
